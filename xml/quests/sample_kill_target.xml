@@ -1,0 +1,44 @@
+<Quest>
+
+<Setup>
+<Version>.001</Version>
+<Name>The Bad Guard</Name>
+
+<Description>This is a sample XML file for Kill Target</Description>
+<Type>Kill Target</Type>
+<Level>25</Level>
+<TimeToComplete>205</TimeToComplete>
+<DatesAvail>0101 1231</DatesAvail>
+<TimesAvail>0021 1254</TimesAvail>
+<YearsAvail>*</YearsAvail>
+</Setup>
+
+
+<QuestGiverData>
+
+<StartText>
+Hail. I have heard that the evil guard has.. been bad!
+Actually, he's been stealing some of my cookies.
+</StartText>
+<Accept>
+Good, I expect you back here as soon as you are done.
+</Accept>
+<Decline>
+Shame, I shall find someone else then.
+</Decline>
+
+</QuestGiverData>
+
+
+<QuestTargetData>
+<TargetVnum>3254</TargetVnum>
+</QuestTargetData>
+
+<QuestReward>
+<Type>Money and Item Choice</Type>
+<QuestMoney>1 Silver</QuestMoney>
+<QuestItemsChoice>121 1213 1213</QuestItemsChoice>
+<QuestItemsGive>232</QuestItemsGive>
+</QuestReward>
+
+</Quest>

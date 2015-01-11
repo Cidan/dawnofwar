@@ -1,0 +1,9 @@
+ackhub:InterAck ack 80
+@@m[@@aACK!@@m]@@W: %s@@c: %s.@@N
+(ack) %s %s
+ackhub:ackchat achat 10
+@@y[@@RAckChat@@y] @@g%s@@d: %s@@N
+(achat) %s %s
+ackhub:AckCode acode 81
+@@e[@@RAckCode@@e]@@g %s@@g:%s@@N
+(acode) %s %s

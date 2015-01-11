@@ -1,0 +1,188 @@
+#AREA
+Item Enchantments vnums..do not use.~
+Q 16
+K none~
+L {W{{RNONE!{W}{x~
+N 157
+I 130 130
+V 4800 4899
+X 0
+F 15
+U You hear the screams of the Dead within your head.~
+D 0
+O Zenithar~
+R Zenithar titania~
+W Zenithar titania~
+S Title not shown on area list.
+#ROOMS
+#4800
+New room~
+No description~
+4 11
+S
+#0
+#OBJECTS
+#4800
+diamond~
+{WA {Cglittering {Ydiamond{x~
+{WA small diamond with a {Bmagical {Waura lies here.{x~
+31 8192 8388608 1
+17 -20 3 0 0 0 0 0 0 0
+1
+L
+10
+#4801
+matrix~
+{WA {CSpell {BMatrix{x~
+{WA {Bmagical {Cmatrix{W floats in front of you!{x~
+30 8192 8421376 1
+100 0 0 0 0 0 0 0 0 0
+1
+L
+10
+#4802
+amethyst~
+{WA {Cglittering {mamethyst{x~
+{WAn {mamethyst{W with a {Bmagical{W aura lies here.{x~
+31 8192 8388608 1
+12 20 2 0 0 0 0 0 0 0
+1
+L
+10
+#4803
+ruby~
+{WA {Cglittering {rruby{x~
+{WA {rruby {Wwith a {Bmagical {Waura lies here.{x~
+31 8192 8388608 1
+19 1 3 0 0 0 0 0 0 0
+1
+L
+10
+#4804
+sapphire~
+{WA {Cglittering {Bsapphire{x~
+{WA {Bsapphire {Wwith a {Bmagical{W aura lies here.{x~
+31 8192 8388608 1
+18 1 3 0 0 0 0 0 0 0
+1
+L
+10
+#4805
+bloodstone~
+{WA {Cglittering {Rbloodstone{x~
+{WA {Rbloodstone {Wwith a {Bmagical {Waura lies here.{x~
+31 8192 8388608 1
+13 20 2 0 0 0 0 0 0 0
+1
+L
+10
+#4806
+onyx~
+{WA {Cglittering {donyx{x~
+{WAn {donyx {Wwith a {Bmagical {Waura lies here.{x~
+31 8192 8388608 1
+24 -3 2 0 0 0 0 0 0 0
+1
+L
+10
+#4807
+garnet~
+{WA {Cglittering {Mgarnet{x~
+{WA {Mgarnet {Wwith a {Bmagical {Waura lies here.{x~
+31 8192 8388608 1
+14 20 1 0 0 0 0 0 0 0
+1
+L
+10
+#4809
+sigil str~
+{WA {Y<{R!{Y>{x~
+{WA {Ypulsating {Rsigil{W lies here.{x~
+31 8192 8388608 1
+1 2 1 0 0 0 0 0 0 0
+1
+L
+10
+#4810
+sigil int~
+{WA {Y<{G*{Y>{x~
+{WA {Ypulsating {Rsigil{W lies here.{x~
+31 8192 8388608 1
+3 2 1 0 0 0 0 0 0 0
+1
+L
+10
+#4811
+sigil wis~
+{WA {Y<{C^{Y>{x~
+{WA {Ypulsating {Rsigil{W lies here.{x~
+31 8192 8388608 1
+4 2 1 0 0 0 0 0 0 0
+1
+L
+10
+#4812
+sigil dex~
+{WA {Y<{B|{Y>{x~
+{WA {Ypulsating {Rsigil{W lies here.{x~
+31 8192 8388608 1
+2 2 1 0 0 0 0 0 0 0
+1
+L
+10
+#4813
+sigil con~
+{WA {Y<{MO{Y>{x~
+{WA {Ypulsating {Rsigil{W lies here.{x~
+31 8192 8388608 1
+5 2 1 0 0 0 0 0 0 0
+1
+L
+10
+#4808
+rune~
+{WA {r^^{W*{r^^{x~
+{WA {Bmystical {Grune{W lies here.{x~
+31 0 8388608 1
+8 0 5 0 0 0 0 0 0 0
+1
+L
+10
+#4814
+rune~
+{W{{Y-{G||{Y-{W}{x~
+{WA {Bmystical {Grune {Wlies here.{x~
+31 0 8388608 1
+-1 0 15 3 0 0 0 0 0 0
+1
+L
+10
+#4815
+rune~
+{W{{Y-{d[]{Y-{W}{x~
+{WA {Bmystical {Grune {Wlies here.{x~
+31 0 8388608 1
+-1 0 20 23 0 0 0 0 0 0
+1
+L
+10
+#4816
+rune~
+{W{{Y-{R..{Y-{W}{x~
+{WA {Bmystical {Grune {Wlies here.{x~
+31 0 8388608 1
+-1 0 10 24 0 0 0 0 0 0
+1
+L
+10
+#4817
+rune~
+{R-{d.{R^{d.{R-{x~
+{WA {Bmystical {Grune {Wlies here.{x~
+31 0 8388608 1
+-1 0 30 26 0 0 0 0 0 0
+1
+L
+10
+#0
+#$

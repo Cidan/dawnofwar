@@ -1,0 +1,9 @@
+# Version <config_file_version>
+# LocalName <local_imc_name>
+# LocalPort <local_imc_port>
+# Connection Name:Host:Port:ClientPW:ServerPW:RcvStamp:NoForward:Flags
+Version 1
+LocalName Ack
+LocalPort 4443
+InfoName Ack!Mud 4.3 Crash Port
+InfoEmail zenithar@ackmud.nuc.net

@@ -1,0 +1,1784 @@
+#AREA
+Town of Larth~
+Q 16
+K none ~
+L {?? ??}~
+N 10
+I 1 1
+V 760 959
+X 0
+F 15
+U You here the screams of the Dead within your head.~
+D 0
+O Ghaleon~
+R Ghaleon~
+W Ghaleon~
+S Title not shown on area list.
+#ROOMS
+#760
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 761
+D1
+~
+~
+0 0
+0 0 3272
+D2
+~
+~
+0 0
+0 0 769
+D3
+~
+~
+0 0
+0 0 765
+S
+#761
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 762
+D2
+~
+~
+0 0
+0 -1 760
+S
+#762
+New room~
+No description~
+0 11
+D2
+~
+~
+0 0
+0 -1 761
+D3
+~
+~
+0 0
+0 -1 763
+S
+#763
+New room~
+No description~
+0 11
+D1
+~
+~
+0 0
+0 -1 762
+D2
+~
+~
+0 0
+0 -1 764
+S
+#764
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 763
+D2
+~
+~
+0 0
+0 -1 765
+S
+#765
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 764
+D1
+~
+~
+0 0
+0 -1 760
+D2
+~
+~
+0 0
+0 -1 766
+D3
+~
+~
+0 0
+0 -1 770
+S
+#766
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 765
+D2
+~
+~
+0 0
+0 -1 767
+S
+#767
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 766
+D1
+~
+~
+0 0
+0 -1 768
+S
+#768
+One Way Garbage Door~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 769
+D2
+~
+~
+0 0
+0 -1 1780
+D3
+~
+~
+0 0
+0 -1 767
+S
+#769
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 760
+D2
+~
+~
+0 0
+0 -1 768
+S
+#770
+New room~
+No description~
+0 1
+D1
+~
+~
+0 0
+0 -1 765
+D3
+~
+~
+0 0
+0 -1 771
+S
+#771
+New room~
+No description~
+0 1
+D1
+~
+~
+0 0
+0 -1 770
+D2
+~
+~
+0 0
+0 -1 772
+D3
+~
+~
+0 0
+0 -1 786
+S
+#772
+Apts~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 771
+D2
+~
+~
+0 0
+0 -1 773
+D3
+~
+~
+0 0
+0 -1 777
+S
+#773
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 772
+D2
+~
+~
+0 0
+0 -1 774
+D3
+~
+~
+0 0
+0 -1 778
+S
+#774
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 773
+D1
+~
+~
+0 0
+0 -1 780
+D2
+~
+~
+0 0
+0 -1 775
+D3
+~
+~
+0 0
+0 -1 779
+S
+#775
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 774
+D2
+~
+~
+0 0
+0 -1 776
+D3
+~
+~
+0 0
+0 -1 783
+S
+#776
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 775
+D3
+~
+~
+0 0
+0 -1 784
+S
+#777
+New room~
+No description~
+0 11
+D1
+~
+~
+0 0
+0 -1 772
+S
+#778
+New room~
+No description~
+0 11
+D1
+~
+~
+0 0
+0 -1 773
+S
+#779
+New room~
+No description~
+0 11
+D1
+~
+~
+0 0
+0 -1 774
+S
+#780
+New room~
+No description~
+0 11
+D2
+~
+~
+0 0
+0 -1 781
+D3
+~
+~
+0 0
+0 -1 774
+S
+#781
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 780
+D1
+~
+~
+0 0
+0 -1 782
+S
+#782
+New room~
+No description~
+0 11
+D3
+~
+~
+0 0
+0 -1 781
+S
+#783
+New room~
+No description~
+0 11
+D1
+~
+~
+0 0
+0 -1 775
+S
+#784
+New room~
+No description~
+0 1
+D1
+~
+~
+0 0
+0 -1 776
+D3
+~
+~
+0 0
+0 -1 785
+S
+#785
+New room~
+No description~
+0 11
+D1
+~
+~
+0 0
+0 -1 784
+S
+#786
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 787
+D1
+~
+~
+0 0
+0 -1 771
+D3
+~
+~
+0 0
+0 -1 797
+S
+#787
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 788
+D2
+~
+~
+0 0
+0 -1 786
+S
+#788
+New room~
+No description~
+0 1
+D1
+~
+~
+0 0
+0 -1 789
+D2
+~
+~
+0 0
+0 -1 787
+S
+#789
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 790
+D3
+~
+~
+0 0
+0 -1 788
+S
+#790
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 791
+D2
+~
+~
+0 0
+0 -1 789
+S
+#791
+BAR~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 0 794
+D1
+~
+~
+0 0
+0 -1 796
+D2
+~
+~
+0 0
+0 -1 790
+D3
+~
+~
+0 0
+0 -1 792
+S
+#792
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 793
+D1
+~
+~
+0 0
+0 -1 791
+S
+#793
+New room~
+No description~
+0 11
+D1
+~
+~
+0 0
+0 -1 794
+D2
+~
+~
+0 0
+0 -1 792
+S
+#794
+New room~
+No description~
+0 11
+D1
+~
+~
+0 0
+0 -1 795
+D2
+~
+~
+0 0
+0 -1 791
+D3
+~
+~
+0 0
+0 -1 793
+S
+#795
+New room~
+No description~
+0 11
+D2
+~
+~
+0 0
+0 -1 796
+D3
+~
+~
+0 0
+0 -1 794
+S
+#796
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 795
+D3
+~
+~
+0 0
+0 0 791
+S
+#797
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 798
+D1
+~
+~
+0 0
+0 -1 786
+D3
+~
+~
+0 0
+0 -1 800
+S
+#798
+Dark Ally~
+No description~
+0 13
+D0
+~
+~
+0 0
+0 -1 799
+D2
+~
+~
+0 0
+0 -1 797
+S
+#799
+New room~
+No description~
+0 13
+D2
+~
+~
+0 0
+0 -1 798
+S
+#800
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 801
+D1
+~
+~
+0 0
+0 -1 797
+D3
+~
+~
+0 0
+0 -1 810
+S
+#801
+HOUSE WALKWAY~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 802
+D2
+~
+~
+0 0
+0 -1 800
+S
+#802
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 803
+D2
+~
+~
+0 0
+0 -1 801
+S
+#803
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 0 806
+D1
+~
+~
+0 0
+0 -1 808
+D2
+~
+~
+0 0
+0 -1 802
+D3
+~
+~
+0 0
+0 -1 804
+S
+#804
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 805
+D1
+~
+~
+0 0
+0 -1 803
+S
+#805
+New room~
+No description~
+0 11
+D1
+~
+~
+0 0
+0 -1 806
+D2
+~
+~
+0 0
+0 -1 804
+S
+#806
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 809
+D1
+~
+~
+0 0
+0 -1 807
+D2
+~
+~
+0 0
+0 -1 803
+D3
+~
+~
+0 0
+0 -1 805
+S
+#807
+New room~
+No description~
+0 11
+D2
+~
+~
+0 0
+0 -1 808
+D3
+~
+~
+0 0
+0 -1 806
+S
+#808
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 807
+D3
+~
+~
+0 0
+0 0 803
+S
+#809
+New room~
+No description~
+0 11
+D2
+~
+~
+0 0
+0 -1 806
+S
+#810
+New room~
+No description~
+0 1
+D1
+~
+~
+0 0
+0 -1 800
+D3
+~
+~
+0 0
+0 -1 811
+S
+#811
+New room~
+No description~
+0 1
+D1
+~
+~
+0 0
+0 -1 810
+D3
+~
+~
+0 0
+0 -1 812
+S
+#812
+New room~
+No description~
+0 1
+D1
+~
+~
+0 0
+0 -1 811
+D2
+~
+~
+0 0
+0 -1 813
+D3
+~
+~
+0 0
+0 -1 826
+S
+#813
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 812
+D2
+~
+~
+0 0
+0 -1 814
+S
+#814
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 813
+D1
+~
+~
+0 0
+0 -1 815
+S
+#815
+New room~
+No description~
+0 1
+D2
+~
+~
+0 0
+0 -1 816
+D3
+~
+~
+0 0
+0 -1 814
+S
+#816
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 815
+D1
+~
+~
+0 0
+0 -1 818
+D2
+~
+~
+0 0
+0 -1 817
+D3
+~
+~
+0 0
+0 -1 819
+S
+#817
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 816
+D3
+~
+~
+0 0
+0 -1 820
+S
+#818
+New room~
+No description~
+0 1
+D1
+~
+~
+0 0
+0 -1 821
+D2
+~
+~
+0 0
+0 -1 824
+D3
+~
+~
+0 0
+0 -1 816
+S
+#819
+New room~
+No description~
+0 11
+D1
+~
+~
+0 0
+0 -1 816
+S
+#820
+New room~
+No description~
+0 11
+D1
+~
+~
+0 0
+0 -1 817
+S
+#821
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 822
+D2
+~
+~
+0 0
+0 -1 823
+D3
+~
+~
+0 0
+0 -1 818
+S
+#822
+New room~
+No description~
+0 11
+D2
+~
+~
+0 0
+0 -1 821
+S
+#823
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 821
+S
+#824
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 818
+D2
+~
+~
+0 0
+0 -1 825
+S
+#825
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 824
+S
+#826
+New room~
+No description~
+0 1
+D1
+~
+~
+0 0
+0 -1 812
+D3
+~
+~
+0 0
+0 -1 827
+S
+#827
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 828
+D1
+~
+~
+0 0
+0 -1 826
+D3
+~
+~
+0 0
+0 -1 857
+S
+#828
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 829
+D2
+~
+~
+0 0
+0 -1 827
+S
+#829
+Shops~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 830
+D1
+~
+~
+0 0
+0 -1 851
+D2
+~
+~
+0 0
+0 -1 828
+D3
+~
+~
+0 0
+0 -1 852
+S
+#830
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 831
+D1
+~
+~
+0 0
+0 -1 854
+D2
+~
+~
+0 0
+0 -1 829
+D3
+~
+~
+0 0
+0 -1 853
+S
+#831
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 832
+D1
+~
+~
+0 0
+0 -1 856
+D2
+~
+~
+0 0
+0 -1 830
+D3
+~
+~
+0 0
+0 -1 855
+S
+#832
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 833
+D2
+~
+~
+0 0
+0 -1 831
+S
+#833
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 834
+D2
+~
+~
+0 0
+0 -1 832
+S
+#834
+Mayor Gate~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 835
+D2
+~
+~
+0 0
+0 -1 833
+S
+#835
+Mayor House~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 836
+D1
+~
+~
+0 0
+0 0 842
+D2
+~
+~
+0 0
+0 -1 834
+D3
+~
+~
+0 0
+0 -1 845
+S
+#836
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 837
+D1
+~
+~
+0 0
+0 0 843
+D2
+~
+~
+0 0
+0 -1 835
+S
+#837
+New room~
+No description~
+0 11
+D1
+~
+~
+0 0
+0 -1 838
+D2
+~
+~
+0 0
+0 -1 836
+S
+#838
+New room~
+No description~
+0 11
+D1
+~
+~
+0 0
+0 -1 839
+D2
+~
+~
+0 0
+0 0 843
+D3
+~
+~
+0 0
+0 -1 837
+S
+#839
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 844
+D2
+~
+~
+0 0
+0 -1 840
+D3
+~
+~
+0 0
+0 -1 838
+S
+#840
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 839
+D2
+~
+~
+0 0
+0 -1 841
+D3
+~
+~
+0 0
+0 0 843
+S
+#841
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 840
+D3
+~
+~
+0 0
+0 -1 842
+S
+#842
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 843
+D1
+~
+~
+0 0
+0 -1 841
+D3
+~
+~
+0 0
+0 -1 835
+S
+#843
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 838
+D1
+~
+~
+0 0
+0 -1 840
+D2
+~
+~
+0 0
+0 -1 842
+D3
+~
+~
+0 0
+0 -1 836
+S
+#844
+HIDDEN EXIT~
+No description~
+0 11
+D2
+~
+~
+0 0
+0 -1 839
+S
+#845
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 846
+D1
+~
+~
+0 0
+0 -1 835
+D3
+~
+~
+0 0
+0 -1 850
+S
+#846
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 847
+D2
+~
+~
+0 0
+0 -1 845
+S
+#847
+New room~
+No description~
+0 11
+D2
+~
+~
+0 0
+0 -1 846
+D3
+~
+~
+0 0
+0 -1 848
+S
+#848
+New room~
+No description~
+0 11
+D1
+~
+~
+0 0
+0 -1 847
+D2
+~
+~
+0 0
+0 -1 849
+S
+#849
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 848
+D2
+~
+~
+0 0
+0 -1 850
+S
+#850
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 849
+D1
+~
+~
+0 0
+0 0 845
+S
+#851
+New room~
+No description~
+0 14
+D3
+~
+~
+0 0
+0 -1 829
+S
+#852
+New room~
+No description~
+0 14
+D1
+~
+~
+0 0
+0 -1 829
+S
+#853
+New room~
+No description~
+0 14
+D1
+~
+~
+0 0
+0 -1 830
+S
+#854
+New room~
+No description~
+0 14
+D3
+~
+~
+0 0
+0 -1 830
+S
+#855
+New room~
+No description~
+0 14
+D1
+~
+~
+0 0
+0 -1 831
+S
+#856
+New room~
+No description~
+0 14
+D3
+~
+~
+0 0
+0 -1 831
+S
+#857
+New room~
+No description~
+0 1
+D1
+~
+~
+0 0
+0 -1 827
+D2
+~
+~
+0 0
+0 -1 864
+D3
+~
+~
+0 0
+0 -1 858
+S
+#858
+New room~
+No description~
+0 1
+D1
+~
+~
+0 0
+0 -1 857
+D3
+~
+~
+0 0
+0 -1 859
+S
+#859
+New room~
+No description~
+0 1
+D1
+~
+~
+0 0
+0 -1 858
+D3
+~
+~
+0 0
+0 -1 860
+S
+#860
+EXIT~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 862
+D1
+~
+~
+0 0
+0 -1 859
+D2
+~
+~
+0 0
+0 -1 863
+D3
+~
+~
+0 0
+0 -1 861
+S
+#861
+New room~
+No description~
+0 12
+D1
+~
+~
+0 0
+0 -1 860
+S
+#862
+New room~
+No description~
+0 11
+D2
+~
+~
+0 0
+0 -1 860
+S
+#863
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 860
+S
+#864
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 857
+D2
+~
+~
+0 0
+0 -1 865
+S
+#865
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 864
+D2
+~
+~
+0 0
+0 -1 866
+S
+#866
+EXIT~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 865
+D1
+~
+~
+0 0
+0 -1 868
+D2
+~
+~
+0 0
+0 -1 867
+D3
+~
+~
+0 0
+0 -1 869
+S
+#867
+Footpath into Larth~
+No description~
+0 12
+D0
+~
+~
+0 0
+0 -1 866
+D2
+~
+~
+0 0
+0 0 1719
+S
+#868
+New room~
+No description~
+0 11
+D3
+~
+~
+0 0
+0 -1 866
+S
+#869
+New room~
+No description~
+0 11
+D1
+~
+~
+0 0
+0 -1 866
+S
+#0
+#$

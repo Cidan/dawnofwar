@@ -1,0 +1,3193 @@
+#AREA
+{RAzterra{x~
+Q 16
+K none ~
+L MY CITY~
+N 9
+I 1 1
+V 1400 1699
+X 0
+F 15
+U The sound of boards being sawed fills the air.~
+D 0
+O Khadgar~
+R Khadgar~
+W Khadgar~
+S Title not shown on area list.
+#ROOMS
+#1400
+Southern Entrance of Azterra~
+A sharp wind blows through the eastern entrance to the "City in the Skies,"
+Azterra, a beautiful city and created by the arguably most handsome immortal.
+A small stone arch with a few vines tangled around it rests here with a
+guardhouse on either side. Houses of various shapes lay along the street past
+the bridge to the north and trees line the river that runs under that bridge.
+In clear view up ahead is the MuD Academy in the center of the city.  Numerous
+sounds emanate from the city as the day passes. To the west and east is a path
+around the edge of the plateau the city sits on. To the south is the path down
+the mountainside, and ahead to the north lies the main avenue through Azterra.
+
+~
+0 1
+D0
+~
+~
+0 0
+0 -1 1401
+D1
+~
+~
+0 0
+0 -1 1425
+D3
+~
+~
+0 0
+0 -1 1438
+S
+#1401
+Southern Bridge~
+The river babbles softly underneath the cobblestone bridge. It looks too deep to walk in, yet there may be another way to transverse it. The road continues north to the center of the city, and to the south lies the southern entrance.
+~
+0 35
+D0
+~
+~
+0 0
+0 -1 1402
+D1
+~
+~
+0 0
+0 0 1538
+D2
+~
+~
+0 0
+0 -1 1400
+D3
+~
+~
+0 0
+0 -1 1495
+S
+#1402
+South PORTAL~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 1403
+D2
+~
+~
+0 0
+0 -1 1401
+S
+#1403
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 1404
+D1
+~
+~
+0 0
+0 -1 1542
+D2
+~
+~
+0 0
+0 -1 1402
+S
+#1404
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 1405
+D2
+~
+~
+0 0
+0 -1 1403
+D3
+~
+~
+0 0
+0 -1 1493
+S
+#1405
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 1406
+D1
+~
+~
+0 0
+0 -1 1540
+D2
+~
+~
+0 0
+0 -1 1404
+D3
+~
+~
+0 0
+0 -1 1482
+S
+#1406
+no name~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 1407
+D1
+~
+~
+0 0
+0 -1 1539
+D2
+~
+~
+0 0
+0 -1 1405
+D3
+~
+~
+0 0
+0 -1 1489
+S
+#1407
+Azterra Center Square~
+~
+0 1
+D0
+~
+~
+0 0
+0 -1 1409
+D1
+~
+~
+0 0
+0 -1 1411
+D2
+~
+~
+0 0
+0 -1 1406
+D3
+~
+~
+0 0
+0 -1 1418
+S
+#1408
+DEATH ROOM~
+No description~
+0 11
+D5
+~
+~
+0 0
+0 -1 1547
+S
+#1409
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 1410
+D1
+~
+~
+0 0
+0 -1 1481
+D2
+~
+~
+0 0
+0 -1 1407
+D3
+~
+~
+0 0
+0 -1 1480
+S
+#1410
+first mud school~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 1576
+D2
+~
+~
+0 0
+0 -1 1409
+S
+#1411
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 1481
+D1
+~
+~
+0 0
+0 -1 1412
+D3
+~
+~
+0 0
+0 -1 1407
+S
+#1412
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 1552
+D1
+~
+~
+0 0
+0 -1 1413
+D3
+~
+~
+0 0
+0 -1 1411
+S
+#1413
+New room~
+No description~
+0 1
+D1
+~
+~
+0 0
+0 -1 1414
+D2
+~
+~
+0 0
+0 0 1549
+D3
+~
+~
+0 0
+0 -1 1412
+S
+#1414
+New room~
+No description~
+0 1
+D1
+~
+~
+0 0
+0 -1 1415
+D3
+~
+~
+0 0
+0 -1 1413
+S
+#1415
+east PORTAL~
+No description~
+0 1
+D1
+~
+~
+0 0
+0 -1 1416
+D3
+~
+~
+0 0
+0 -1 1414
+S
+#1416
+Eastern Bridge~
+The river babbles softly underneath the cobblestone bridge.  It looks too deep to walk in, yet there may be another way to transverse it.  The road continues west to the center of the city, and to the east lies the eastern entrance.
+~
+0 35
+D0
+~
+~
+0 0
+0 0 1527
+D1
+~
+~
+0 0
+0 -1 1417
+D2
+~
+~
+0 0
+0 -1 1528
+D3
+~
+~
+0 0
+0 -1 1415
+S
+#1417
+Eastern Entrance to Azterra~
+A sharp wind blows through the eastern entrance to the "City in the Skies,"
+Azterra, a beautiful city and created by the arguably most handsome immortal.
+A small stone arch with a few vines tangled around it rests here with a
+guardhouse on either side. Houses of various shapes lay along the street past
+the bridge to the west and trees line the river that runs under that bridge.
+In clear view up ahead is the MuD Academy in the center of the city.  Numerous
+sounds emanate from the city as the day passes. To the north and south is a
+path around the edge of the plateau the city sits on. To the east is the path
+down the mountainside, and ahead to the west lies the main avenue through
+Azterra.
+~
+0 1
+D0
+~
+~
+0 0
+0 0 1477
+D2
+~
+~
+0 0
+0 0 1437
+D3
+~
+~
+0 0
+0 -1 1416
+S
+#1418
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 1480
+D1
+~
+~
+0 0
+0 -1 1407
+D3
+~
+~
+0 0
+0 -1 1419
+S
+#1419
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 1564
+D1
+~
+~
+0 0
+0 -1 1418
+D3
+~
+~
+0 0
+0 -1 1420
+S
+#1420
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 1565
+D1
+~
+~
+0 0
+0 -1 1419
+D3
+~
+~
+0 0
+0 -1 1421
+S
+#1421
+New room~
+No description~
+0 1
+D1
+~
+~
+0 0
+0 -1 1420
+D2
+~
+~
+0 0
+0 0 1486
+D3
+~
+~
+0 0
+0 -1 1422
+S
+#1422
+west PORTAL~
+No description~
+0 1
+D1
+~
+~
+0 0
+0 -1 1421
+D3
+~
+~
+0 0
+0 -1 1423
+S
+#1423
+Western Bridge~
+The river babbles softly underneath the cobblestone bridge.  It looks too deep to walk in, yet there may be another way to transverse it.  The road continues east to the center of the city, and to the west lies the western entrance.
+~
+0 35
+D0
+~
+~
+0 0
+0 -1 1506
+D1
+~
+~
+0 0
+0 -1 1422
+D2
+~
+~
+0 0
+0 -1 1505
+D3
+~
+~
+0 0
+0 -1 1424
+S
+#1424
+Western Entrance to Azterra~
+A sharp wind blows through the eastern entrance to the "City in the Skies,"
+Azterra, a beautiful city and created by the arguably most handsome immortal.
+A small stone arch with a few vines tangled around it rests here with a
+guardhouse on either side. Houses of various shapes lay along the street past
+the bridge to the east and trees line the river that runs under that bridge.
+In clear view up ahead is the MuD Academy in the center of the city.  Numerous
+sounds emanate from the city as the day passes. To the north and south is a
+path around the edge of the plateau the city sits on. To the west is the path
+down the mountainside, and ahead to the east lies the main avenue through
+Azterra.
+~
+0 1
+D0
+~
+~
+0 0
+0 -1 1451
+D1
+~
+~
+0 0
+0 -1 1423
+D2
+~
+~
+0 0
+0 0 1450
+S
+#1425
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D1
+~
+~
+0 0
+0 -1 1426
+D3
+~
+~
+0 0
+0 -1 1400
+S
+#1426
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D0
+~
+~
+0 0
+0 -1 1427
+D3
+~
+~
+0 0
+0 -1 1425
+S
+#1427
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D1
+~
+~
+0 0
+0 -1 1428
+D2
+~
+~
+0 0
+0 -1 1426
+S
+#1428
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D1
+~
+~
+0 0
+0 -1 1429
+D3
+~
+~
+0 0
+0 -1 1427
+S
+#1429
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D0
+~
+~
+0 0
+0 -1 1430
+D3
+~
+~
+0 0
+0 -1 1428
+S
+#1430
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D1
+~
+~
+0 0
+0 -1 1431
+D2
+~
+~
+0 0
+0 -1 1429
+S
+#1431
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D0
+~
+~
+0 0
+0 -1 1432
+D3
+~
+~
+0 0
+0 -1 1430
+S
+#1432
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D1
+~
+~
+0 0
+0 -1 1433
+D2
+~
+~
+0 0
+0 -1 1431
+S
+#1433
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D0
+~
+~
+0 0
+0 -1 1434
+D3
+~
+~
+0 0
+0 -1 1432
+S
+#1434
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D0
+~
+~
+0 0
+0 -1 1435
+D2
+~
+~
+0 0
+0 -1 1433
+S
+#1435
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D1
+~
+~
+0 0
+0 -1 1436
+D2
+~
+~
+0 0
+0 -1 1434
+S
+#1436
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D0
+~
+~
+0 0
+0 -1 1437
+D3
+~
+~
+0 0
+0 -1 1435
+S
+#1437
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D0
+~
+~
+0 0
+0 -1 1417
+D2
+~
+~
+0 0
+0 -1 1436
+S
+#1438
+Path Along the Edge~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D1
+~
+~
+0 0
+0 -1 1400
+D3
+~
+~
+0 0
+0 -1 1439
+E
+~
+~
+E
+~
+~
+S
+#1439
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D0
+~
+~
+0 0
+0 -1 1440
+D1
+~
+~
+0 0
+0 -1 1438
+S
+#1440
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D2
+~
+~
+0 0
+0 -1 1439
+D3
+~
+~
+0 0
+0 -1 1441
+S
+#1441
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D1
+~
+~
+0 0
+0 -1 1440
+D3
+~
+~
+0 0
+0 -1 1442
+S
+#1442
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D0
+~
+~
+0 0
+0 -1 1443
+D1
+~
+~
+0 0
+0 -1 1441
+S
+#1443
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D2
+~
+~
+0 0
+0 -1 1442
+D3
+~
+~
+0 0
+0 -1 1444
+S
+#1444
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D0
+~
+~
+0 0
+0 -1 1445
+D1
+~
+~
+0 0
+0 -1 1443
+S
+#1445
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D2
+~
+~
+0 0
+0 -1 1444
+D3
+~
+~
+0 0
+0 -1 1446
+S
+#1446
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D0
+~
+~
+0 0
+0 -1 1447
+D1
+~
+~
+0 0
+0 -1 1445
+S
+#1447
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D0
+~
+~
+0 0
+0 -1 1448
+D2
+~
+~
+0 0
+0 -1 1446
+S
+#1448
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D2
+~
+~
+0 0
+0 -1 1447
+D3
+~
+~
+0 0
+0 -1 1449
+S
+#1449
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D0
+~
+~
+0 0
+0 -1 1450
+D1
+~
+~
+0 0
+0 -1 1448
+S
+#1450
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D0
+~
+~
+0 0
+0 -1 1424
+D2
+~
+~
+0 0
+0 -1 1449
+S
+#1451
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D0
+~
+~
+0 0
+0 -1 1452
+D2
+~
+~
+0 0
+0 -1 1424
+S
+#1452
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D1
+~
+~
+0 0
+0 -1 1453
+D2
+~
+~
+0 0
+0 -1 1451
+S
+#1453
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D0
+~
+~
+0 0
+0 -1 1454
+D3
+~
+~
+0 0
+0 -1 1452
+S
+#1454
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D0
+~
+~
+0 0
+0 -1 1455
+D2
+~
+~
+0 0
+0 -1 1453
+S
+#1455
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D1
+~
+~
+0 0
+0 -1 1456
+D2
+~
+~
+0 0
+0 -1 1454
+S
+#1456
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D0
+~
+~
+0 0
+0 -1 1457
+D3
+~
+~
+0 0
+0 -1 1455
+S
+#1457
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D1
+~
+~
+0 0
+0 -1 1458
+D2
+~
+~
+0 0
+0 -1 1456
+S
+#1458
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D0
+~
+~
+0 0
+0 -1 1459
+D3
+~
+~
+0 0
+0 -1 1457
+S
+#1459
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D1
+~
+~
+0 0
+0 -1 1460
+D2
+~
+~
+0 0
+0 -1 1458
+S
+#1460
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D1
+~
+~
+0 0
+0 -1 1461
+D3
+~
+~
+0 0
+0 -1 1459
+S
+#1461
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D0
+~
+~
+0 0
+0 -1 1462
+D3
+~
+~
+0 0
+0 -1 1460
+S
+#1462
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D1
+~
+~
+0 0
+0 -1 1463
+D2
+~
+~
+0 0
+0 -1 1461
+S
+#1463
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D1
+~
+~
+0 0
+0 -1 1464
+D3
+~
+~
+0 0
+0 -1 1462
+S
+#1464
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere. To the south is the tiny wooden shack the gardener of the MuD
+Academy uses.
+~
+0 2
+D1
+~
+~
+0 0
+0 -1 1465
+D2
+~
+~
+0 0
+0 -1 1478
+D3
+~
+~
+0 0
+0 -1 1463
+S
+#1465
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D1
+~
+~
+0 0
+0 -1 1466
+D3
+~
+~
+0 0
+0 -1 1464
+S
+#1466
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D2
+~
+~
+0 0
+0 -1 1467
+D3
+~
+~
+0 0
+0 -1 1465
+S
+#1467
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D0
+~
+~
+0 0
+0 -1 1466
+D1
+~
+~
+0 0
+0 -1 1468
+S
+#1468
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D1
+~
+~
+0 0
+0 -1 1469
+D3
+~
+~
+0 0
+0 -1 1467
+S
+#1469
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D2
+~
+~
+0 0
+0 -1 1470
+D3
+~
+~
+0 0
+0 -1 1468
+S
+#1470
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D0
+~
+~
+0 0
+0 -1 1469
+D1
+~
+~
+0 0
+0 -1 1471
+S
+#1471
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D2
+~
+~
+0 0
+0 -1 1472
+D3
+~
+~
+0 0
+0 -1 1470
+S
+#1472
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D0
+~
+~
+0 0
+0 -1 1471
+D1
+~
+~
+0 0
+0 -1 1473
+S
+#1473
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D2
+~
+~
+0 0
+0 -1 1474
+D3
+~
+~
+0 0
+0 -1 1472
+S
+#1474
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D0
+~
+~
+0 0
+0 -1 1473
+D2
+~
+~
+0 0
+0 -1 1475
+S
+#1475
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D0
+~
+~
+0 0
+0 -1 1474
+D1
+~
+~
+0 0
+0 -1 1476
+S
+#1476
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D2
+~
+~
+0 0
+0 -1 1477
+D3
+~
+~
+0 0
+0 -1 1475
+S
+#1477
+New room~
+The dirt path around the edge of Azterra isn't too wide form the edge of the
+plateau to the line of trees along the river. The incessant chirping of birds
+resonates from that tree line. A light breeze is all that gets through the
+magic barrier between the city and the strong winds this high in the
+atmosphere.
+~
+0 2
+D0
+~
+~
+0 0
+0 -1 1476
+D2
+~
+~
+0 0
+0 -1 1417
+S
+#1478
+Bridge~
+No description~
+0 35
+D0
+~
+~
+0 0
+0 -1 1464
+D1
+~
+~
+0 0
+0 -1 1517
+D2
+~
+~
+0 0
+0 -1 1479
+D3
+~
+~
+0 0
+0 0 1516
+S
+#1479
+GARDENERS SHACK~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 1478
+S
+#1480
+New room~
+No description~
+0 2
+D1
+~
+~
+0 0
+0 0 1409
+D2
+~
+~
+0 0
+0 -1 1418
+D3
+~
+~
+0 0
+0 -1 1564
+S
+#1481
+New room~
+No description~
+0 2
+D1
+~
+~
+0 0
+0 -1 1552
+D2
+~
+~
+0 0
+0 0 1411
+D3
+~
+~
+0 0
+0 -1 1409
+S
+#1482
+bazaar2 ?~
+No description~
+0 1
+D1
+~
+~
+0 0
+0 -1 1405
+D2
+~
+~
+0 0
+0 -1 1493
+D3
+~
+~
+0 0
+0 -1 1483
+S
+#1483
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 1488
+D1
+~
+~
+0 0
+0 -1 1482
+D2
+~
+~
+0 0
+0 -1 1491
+D3
+~
+~
+0 0
+0 -1 1484
+S
+#1484
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 1487
+D1
+~
+~
+0 0
+0 -1 1483
+D2
+~
+~
+0 0
+0 -1 1490
+D3
+~
+~
+0 0
+0 -1 1485
+S
+#1485
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 1486
+D1
+~
+~
+0 0
+0 -1 1484
+S
+#1486
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 1421
+D2
+~
+~
+0 0
+0 -1 1485
+S
+#1487
+WEAPONS~
+No description~
+0 11
+D1
+~
+~
+0 0
+0 -1 1488
+D2
+~
+~
+0 0
+0 -1 1484
+S
+#1488
+Armor~
+No description~
+0 11
+D2
+~
+~
+0 0
+0 -1 1483
+D3
+~
+~
+0 0
+0 0 1487
+S
+#1490
+MAgic~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 1484
+S
+#1491
+scrolls~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 1483
+D2
+~
+~
+0 0
+0 -1 1492
+S
+#1492
+Relics~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 1491
+S
+#1493
+bazaar~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 1482
+D1
+~
+~
+0 0
+0 0 1404
+D2
+~
+~
+0 0
+0 -1 1494
+S
+#1494
+Pets~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 1493
+S
+#1495
+New room~
+No description~
+0 7
+D0
+~
+~
+0 0
+0 -1 1496
+D1
+~
+~
+0 0
+0 -1 1401
+S
+#1496
+New room~
+No description~
+0 7
+D2
+~
+~
+0 0
+0 -1 1495
+D3
+~
+~
+0 0
+0 -1 1497
+S
+#1497
+New room~
+No description~
+0 7
+D1
+~
+~
+0 0
+0 -1 1496
+D3
+~
+~
+0 0
+0 -1 1498
+S
+#1498
+New room~
+No description~
+0 7
+D0
+~
+~
+0 0
+0 -1 1499
+D1
+~
+~
+0 0
+0 -1 1497
+S
+#1499
+New room~
+No description~
+0 7
+D2
+~
+~
+0 0
+0 -1 1498
+D3
+~
+~
+0 0
+0 -1 1500
+S
+#1500
+New room~
+No description~
+0 7
+D0
+~
+~
+0 0
+0 -1 1501
+D1
+~
+~
+0 0
+0 -1 1499
+S
+#1501
+New room~
+No description~
+0 7
+D2
+~
+~
+0 0
+0 -1 1500
+D3
+~
+~
+0 0
+0 -1 1502
+S
+#1502
+New room~
+No description~
+0 7
+D0
+~
+~
+0 0
+0 -1 1503
+D1
+~
+~
+0 0
+0 -1 1501
+S
+#1503
+New room~
+No description~
+0 7
+D0
+~
+~
+0 0
+0 -1 1504
+D2
+~
+~
+0 0
+0 -1 1502
+S
+#1504
+New room~
+No description~
+0 7
+D2
+~
+~
+0 0
+0 -1 1503
+D3
+~
+~
+0 0
+0 -1 1505
+S
+#1505
+New room~
+No description~
+0 7
+D0
+~
+~
+0 0
+0 0 1423
+D1
+~
+~
+0 0
+0 -1 1504
+S
+#1506
+New room~
+No description~
+0 7
+D1
+~
+~
+0 0
+0 -1 1507
+D2
+~
+~
+0 0
+0 -1 1423
+S
+#1507
+New room~
+No description~
+0 7
+D0
+~
+~
+0 0
+0 -1 1508
+D1
+~
+~
+0 0
+0 -1 1566
+D3
+~
+~
+0 0
+0 -1 1506
+S
+#1508
+New room~
+No description~
+0 7
+D0
+~
+~
+0 0
+0 -1 1509
+D2
+~
+~
+0 0
+0 -1 1507
+S
+#1509
+New room~
+No description~
+0 7
+D1
+~
+~
+0 0
+0 -1 1510
+D2
+~
+~
+0 0
+0 -1 1508
+S
+#1510
+New room~
+No description~
+0 7
+D0
+~
+~
+0 0
+0 -1 1511
+D3
+~
+~
+0 0
+0 -1 1509
+S
+#1511
+New room~
+No description~
+0 7
+D1
+~
+~
+0 0
+0 -1 1512
+D2
+~
+~
+0 0
+0 -1 1510
+S
+#1512
+New room~
+No description~
+0 7
+D0
+~
+~
+0 0
+0 -1 1513
+D3
+~
+~
+0 0
+0 -1 1511
+S
+#1513
+New room~
+No description~
+0 7
+D1
+~
+~
+0 0
+0 -1 1514
+D2
+~
+~
+0 0
+0 -1 1512
+S
+#1514
+New room~
+No description~
+0 7
+D1
+~
+~
+0 0
+0 -1 1515
+D3
+~
+~
+0 0
+0 -1 1513
+S
+#1515
+New room~
+No description~
+0 7
+D0
+~
+~
+0 0
+0 -1 1516
+D3
+~
+~
+0 0
+0 -1 1514
+S
+#1516
+New room~
+No description~
+0 7
+D1
+~
+~
+0 0
+0 -1 1478
+D2
+~
+~
+0 0
+0 -1 1515
+S
+#1517
+New room~
+No description~
+0 7
+D2
+~
+~
+0 0
+0 -1 1518
+D3
+~
+~
+0 0
+0 -1 1478
+S
+#1518
+New room~
+No description~
+0 7
+D0
+~
+~
+0 0
+0 -1 1517
+D1
+~
+~
+0 0
+0 -1 1519
+S
+#1519
+New room~
+No description~
+0 7
+D1
+~
+~
+0 0
+0 -1 1520
+D3
+~
+~
+0 0
+0 -1 1518
+S
+#1520
+New room~
+No description~
+0 7
+D2
+~
+~
+0 0
+0 -1 1521
+D3
+~
+~
+0 0
+0 -1 1519
+S
+#1521
+New room~
+No description~
+0 7
+D0
+~
+~
+0 0
+0 -1 1520
+D1
+~
+~
+0 0
+0 -1 1522
+S
+#1522
+New room~
+No description~
+0 7
+D2
+~
+~
+0 0
+0 -1 1523
+D3
+~
+~
+0 0
+0 -1 1521
+S
+#1523
+New room~
+No description~
+0 7
+D0
+~
+~
+0 0
+0 -1 1522
+D1
+~
+~
+0 0
+0 -1 1524
+S
+#1524
+New room~
+No description~
+0 7
+D2
+~
+~
+0 0
+0 -1 1525
+D3
+~
+~
+0 0
+0 -1 1523
+S
+#1525
+New room~
+No description~
+0 7
+D0
+~
+~
+0 0
+0 -1 1524
+D2
+~
+~
+0 0
+0 -1 1526
+S
+#1526
+New room~
+No description~
+0 7
+D0
+~
+~
+0 0
+0 -1 1525
+D1
+~
+~
+0 0
+0 -1 1527
+S
+#1527
+New room~
+No description~
+0 7
+D2
+~
+~
+0 0
+0 -1 1416
+D3
+~
+~
+0 0
+0 -1 1526
+S
+#1528
+New room~
+No description~
+0 7
+D0
+~
+~
+0 0
+0 -1 1416
+D3
+~
+~
+0 0
+0 -1 1529
+S
+#1529
+New room~
+No description~
+0 7
+D1
+~
+~
+0 0
+0 -1 1528
+D2
+~
+~
+0 0
+0 -1 1530
+D3
+~
+~
+0 0
+0 -1 1541
+S
+#1530
+New room~
+No description~
+0 7
+D0
+~
+~
+0 0
+0 -1 1529
+D2
+~
+~
+0 0
+0 -1 1531
+S
+#1531
+New room~
+No description~
+0 7
+D0
+~
+~
+0 0
+0 -1 1530
+D3
+~
+~
+0 0
+0 -1 1532
+S
+#1532
+New room~
+No description~
+0 7
+D1
+~
+~
+0 0
+0 -1 1531
+D2
+~
+~
+0 0
+0 -1 1533
+S
+#1533
+New room~
+No description~
+0 7
+D0
+~
+~
+0 0
+0 -1 1532
+D3
+~
+~
+0 0
+0 -1 1534
+S
+#1534
+New room~
+No description~
+0 7
+D1
+~
+~
+0 0
+0 -1 1533
+D2
+~
+~
+0 0
+0 -1 1535
+S
+#1535
+New room~
+No description~
+0 7
+D0
+~
+~
+0 0
+0 -1 1534
+D3
+~
+~
+0 0
+0 -1 1536
+S
+#1536
+New room~
+No description~
+0 7
+D1
+~
+~
+0 0
+0 -1 1535
+D3
+~
+~
+0 0
+0 -1 1537
+S
+#1537
+New room~
+No description~
+0 7
+D1
+~
+~
+0 0
+0 -1 1536
+D2
+~
+~
+0 0
+0 -1 1538
+S
+#1538
+New room~
+No description~
+0 7
+D0
+~
+~
+0 0
+0 -1 1537
+D3
+~
+~
+0 0
+0 -1 1401
+S
+#1539
+Inn~
+No description~
+0 11
+D3
+~
+~
+0 0
+0 -1 1406
+D4
+~
+~
+0 0
+0 -1 1574
+S
+#1540
+Stables~
+No description~
+0 11
+D3
+~
+~
+0 0
+0 -1 1405
+S
+#1542
+Guard House~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 1543
+D3
+~
+~
+0 0
+0 -1 1403
+S
+#1543
+New room~
+No description~
+0 1
+D1
+~
+~
+0 0
+0 -1 1544
+D2
+~
+~
+0 0
+0 -1 1542
+S
+#1544
+Healage~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 1548
+D1
+~
+~
+0 0
+0 -1 1546
+D2
+~
+~
+0 0
+0 -1 1545
+D3
+~
+~
+0 0
+0 -1 1543
+S
+#1545
+Izlude's House~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 1544
+S
+#1546
+Healage 1~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 1547
+D3
+~
+~
+0 0
+0 -1 1544
+S
+#1547
+RECALL~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 1549
+D1
+~
+~
+0 0
+0 -1 1550
+D2
+~
+~
+0 0
+0 -1 1546
+D3
+~
+~
+0 0
+0 -1 1548
+S
+#1548
+Misc. donate~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 1551
+D1
+~
+~
+0 0
+0 -1 1547
+D2
+~
+~
+0 0
+0 0 1544
+S
+#1549
+Guard House~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 1413
+D2
+~
+~
+0 0
+0 -1 1547
+D3
+~
+~
+0 0
+0 -1 1551
+S
+#1550
+Weapon;s donate~
+No description~
+0 11
+D3
+~
+~
+0 0
+0 -1 1547
+S
+#1541
+secluded~
+No description~
+0 11
+D1
+~
+~
+0 0
+0 -1 1529
+S
+#1551
+Armor donate~
+No description~
+0 11
+D1
+~
+~
+0 0
+0 -1 1549
+D2
+~
+~
+0 0
+0 0 1548
+S
+#1552
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 1553
+D2
+~
+~
+0 0
+0 -1 1412
+D3
+~
+~
+0 0
+0 0 1481
+S
+#1553
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 1554
+D1
+~
+~
+0 0
+0 -1 1560
+D2
+~
+~
+0 0
+0 -1 1552
+S
+#1554
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 1555
+D1
+~
+~
+0 0
+0 -1 1556
+D2
+~
+~
+0 0
+0 -1 1553
+S
+#1555
+Blacksmith~
+No description~
+0 1
+D2
+~
+~
+0 0
+0 -1 1554
+S
+#1556
+Obsedrv start~
+No description~
+0 11
+D3
+~
+~
+0 0
+0 -1 1554
+D4
+~
+~
+0 0
+0 -1 1557
+S
+#1557
+observe2~
+No description~
+0 11
+D2
+~
+~
+0 0
+0 -1 1558
+D5
+~
+~
+0 0
+0 -1 1556
+S
+#1558
+observe3~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 1557
+D2
+~
+~
+0 0
+0 -1 1559
+S
+#1559
+Telescopr~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 1558
+S
+#1560
+Library ent~
+No description~
+0 11
+D1
+~
+~
+0 0
+0 -1 1561
+D2
+~
+~
+0 0
+0 -1 1562
+D3
+~
+~
+0 0
+0 -1 1553
+S
+#1561
+library4~
+No description~
+0 11
+D2
+~
+~
+0 0
+0 -1 1563
+D3
+~
+~
+0 0
+0 -1 1560
+S
+#1562
+library2~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 1560
+D1
+~
+~
+0 0
+0 -1 1563
+S
+#1563
+library3~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 1561
+D3
+~
+~
+0 0
+0 0 1562
+S
+#1489
+Bank~
+No description~
+0 11
+D1
+~
+~
+0 0
+0 -1 1406
+S
+#1564
+New room~
+No description~
+0 1
+D0
+~
+~
+0 0
+0 -1 1567
+D1
+~
+~
+0 0
+0 0 1480
+D2
+~
+~
+0 0
+0 -1 1419
+D3
+~
+~
+0 0
+0 -1 1565
+S
+#1565
+Chocobo Tavern~
+No description~
+0 11
+D1
+~
+~
+0 0
+0 -1 1564
+D2
+~
+~
+0 0
+0 0 1420
+D5
+~
+~
+0 0
+0 -1 1573
+S
+#1566
+Secluded 2~
+No description~
+0 11
+D3
+~
+~
+0 0
+0 -1 1507
+S
+#1567
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 1570
+D2
+~
+~
+0 0
+0 -1 1564
+D3
+~
+~
+0 0
+0 -1 1568
+S
+#1568
+New room~
+No description~
+0 11
+D1
+~
+~
+0 0
+0 -1 1567
+D3
+~
+~
+0 0
+0 -1 1569
+S
+#1569
+Fletcher~
+No description~
+0 11
+D1
+~
+~
+0 0
+0 -1 1568
+S
+#1570
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 1571
+D2
+~
+~
+0 0
+0 -1 1567
+D3
+~
+~
+0 0
+0 -1 1572
+S
+#1571
+Disco Ball~
+No description~
+0 11
+D2
+~
+~
+0 0
+0 -1 1570
+S
+#1572
+Smith REsidence~
+No description~
+0 11
+D1
+~
+~
+0 0
+0 -1 1570
+S
+#1573
+wine cellar~
+No description~
+0 11
+D4
+~
+~
+0 0
+0 -1 1565
+S
+#1574
+New room~
+No description~
+0 11
+D2
+~
+~
+0 0
+0 -1 1575
+D5
+~
+~
+0 0
+0 -1 1539
+S
+#1575
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 1574
+S
+#1576
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 1577
+D2
+~
+~
+0 0
+0 -1 1410
+S
+#1577
+MUD SCHOOL~
+No description~
+0 11
+D2
+~
+~
+0 0
+0 -1 1576
+S
+#0
+#MOBILES
+#1400
+BoB~
+BoB~
+It is...BoB~
+~
+1 0 0 S
+6 1
+0 0 0
+1 1 0
+! 1 0 0 8 0 0 0
+| 0 0 0 0 0 0 0 0 0
+#0
+#OBJECTS
+#1400
+item~
+basic item~
+Its a basic item~
+5 65536 8388608 1
+0 0 0 10 0 0 0 0 0 0
+1
+L
+1
+#0
+#$

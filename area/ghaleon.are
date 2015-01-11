@@ -1,0 +1,54 @@
+#AREA
+Grindery~
+Q 16
+K none ~
+L {?? ??}~
+N 2
+I 1 1
+V 166 265
+X 0
+F 15
+U You here the screams of the Dead within your head.~
+D 0
+O Ghaleon~
+R Ghaleon~
+W Ghaleon~
+S Title not shown on area list.
+#ROOMS
+#166
+Taben's Peak~
+This is the coolest place in the world. YES IT IS! :D
+~
+12 11
+E
+~
+~
+S
+#0
+#OBJECTS
+#166
+Ghaleon's Sword~
+{mGhaleon's Sword{x~
+A heavenly sword of all power lays on the ground~
+5 46236099 8421376 1
+4 4 999 1 0 0 0 0 0 0
+1
+E
+~
+~
+L
+85
+#167
+leet~
+leet Thing!~
+A leet thing of all leetness~
+9 3 8650752 262143
+0 0 0 0 0 0 0 0 0 0
+1
+L
+1
+#0
+#OBJFUNS
+O 166 objfun_regen
+S
+#$

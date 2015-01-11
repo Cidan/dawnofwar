@@ -1,0 +1,24 @@
+<Quest>
+
+<Setup>
+<Version>.001</Version>
+<Description>This is a sample XML file for Kill Target</Description>
+<Type>Kill Target</Type>
+<TargetVnum>3254</TargetVnum>
+<QuestTime>205</QuestTime>
+</Setup>
+
+<QuestGiverData>
+<StartText>Hail. I have heard that the evil guard has.. been bad! KILL HIM!</StartText>
+<Decline>Shame, I shall find someone else then.</Decline>
+<Accept>Good!  Come back for your reward when you are done</Accept>
+</QuestGiverData>
+
+<QuestReward>
+<Type>Money and Item Choice</Type>
+<QuestMoney>1 Silver</QuestMoney>
+<QuestItemsChoice>121 1213 1213</QuestItemsChoice>
+<QuestItemsGive>232</QuestItemsGive>
+</QuestReward>
+
+</Quest>

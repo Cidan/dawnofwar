@@ -1,0 +1,85 @@
+#AREA
+The thin line between sanity and insanity.~
+Q 16
+K none ~
+L {?? ??}~
+N 3
+I 1 1
+V 310 359
+X 0
+F 1
+U ~
+D 0
+O khadgar~
+R Ghaleon +ghaleon~
+W Ghaleon +ghaleon~
+B Currently building area.
+S Title not shown on area list.
+#ROOMS
+#310
+Landing to the Stairs~
+~
+12 11
+D1
+~
+~
+0 0
+0 -1 311
+D2
+~
+~
+0 0
+0 -1 315
+S
+#311
+Small Path Around Stairs~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 312
+D3
+~
+~
+0 0
+0 -1 310
+S
+#312
+Small Path Around Stairs~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 313
+D2
+~
+~
+0 0
+0 -1 311
+S
+#313
+Computer Room~
+No description~
+0 11
+D2
+~
+~
+0 0
+0 -1 312
+S
+#315
+New room~
+No description~
+0 11
+D0
+~
+~
+0 0
+0 -1 310
+S
+#0
+#$

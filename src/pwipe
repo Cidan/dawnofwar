@@ -1,0 +1,81 @@
+#!/bin/sh
+
+cd ..
+cd player
+cd a
+rm -rf *
+cd ..
+cd b
+rm -rf *
+cd ..
+cd c
+rm -rf *
+cd ..
+cd d
+rm -rf *
+cd ..
+cd e
+rm -rf *
+cd ..
+cd f
+rm -rf *
+cd ..
+cd g
+rm -rf *
+cd ..
+cd h
+rm -rf *
+cd ..
+cd i
+rm -rf *
+cd ..
+cd j
+rm -rf *
+cd ..
+cd k
+rm -rf *
+cd ..
+cd l
+rm -rf *
+cd ..
+cd m
+rm -rf *
+cd ..
+cd n
+rm -rf *
+cd ..
+cd o
+rm -rf *
+cd ..
+cd p
+rm -rf *
+cd ..
+cd q
+rm -rf *
+cd ..
+cd r
+rm -rf *
+cd ..
+cd s
+rm -rf *
+cd ..
+cd t
+rm -rf *
+cd ..
+cd u
+rm -rf *
+cd ..
+cd v
+rm -rf *
+cd ..
+cd w
+rm -rf *
+cd ..
+cd x
+rm -rf *
+cd ..
+cd y
+rm -rf *
+cd ..
+cd z
+rm -rf *

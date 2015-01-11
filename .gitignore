@@ -1,0 +1,8 @@
+player/*
+bin/*
+src/*.o
+log/*
+reports/*
+data/*
+*~
+*.swp
