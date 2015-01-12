@@ -54,6 +54,8 @@
 #include "act_mob.h"
 #endif
 
+#include "cJSON.h"
+
 #include <mysql/mysql.h>
 #include <mysql/errmsg.h>
 
@@ -1738,6 +1740,7 @@ void  generate_auto_quest	args( ( void ) );
 			   ) save.c (
 			   \*------*/
 void    save_char_obj   args( ( CHAR_DATA *ch ) );
+void generate_char_json args((CHAR_DATA *ch, cJSON *root ));
 bool    load_char_obj   args( ( DESCRIPTOR_DATA *d, char *name, bool system_call ) );
 void	save_corpses	args( ( void ) );
 void	save_hobj	args( ( void ) );

@@ -17,7 +17,7 @@ L_FLAGS = -O -g -levent $(XML_L) $(PROF)
 #
 
 
-O_FILES = act_comm.o act_info.o act_move.o act_obj.o act_wiz.o comm.o const.o \
+O_FILES = act_comm.o act_info.o act_move.o act_obj.o act_wiz.o cJSON.o comm.o const.o \
           db.o fight.o handler.o interp.o magic.o magic2.o magic3.o magic4.o spell_dam.o \
           mob_commands.o mob_prog.o save.o special.o update.o board.o areasave.o \
           buildtab.o build.o write.o act_clan.o buildare.o hunt.o hash.o areachk.o clutch.o \
